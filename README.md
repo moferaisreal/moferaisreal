@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mofera
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently learning HTML, CSS & JS
 - 💞️ I’m looking to collaborate on Clone sites
 - 📫
 
